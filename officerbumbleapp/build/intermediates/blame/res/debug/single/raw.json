@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/duck.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/duck.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/wink.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/wink.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/bowling.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/bowling.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/scramble.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/scramble.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/button.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/button.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/jump.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/jump.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/animationconfig.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/animationconfig.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/simple_fragment_shader.glsl",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/simple_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/animationconfigsplashscreen.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/animationconfigsplashscreen.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/animationletters.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/animationletters.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/robotshoot.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/robotshoot.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/casino.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/casino.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/nextfreeman.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/nextfreeman.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/shoppingmall.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/shoppingmall.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/robotthrow.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/robotthrow.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/badguys.mp3",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/badguys.mp3"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/leveldesign.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/leveldesign.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/yikes.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/yikes.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/failure.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/failure.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/secondwind.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/secondwind.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/promotion.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/promotion.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/facebookinvite.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/facebookinvite.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/titlescreen.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/titlescreen.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/museum.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/museum.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/badgeawarded.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/badgeawarded.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/openingtheme.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/openingtheme.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/laugh.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/laugh.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/nextbadge.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/nextbadge.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/escalator.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/escalator.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/tutorial.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/tutorial.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/freeman.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/freeman.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/splashscreen.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/splashscreen.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/badgeconfig.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/badgeconfig.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/gameover.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/gameover.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/headshake.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/headshake.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/heist.mp3",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/heist.mp3"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/chicken.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/chicken.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/difficultyconfig.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/difficultyconfig.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/criminalescape.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/criminalescape.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/splat.wav",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/splat.wav"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/raw/bank.xml",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/raw/bank.xml"
+    }
+]

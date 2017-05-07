@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/drawable-xxhdpi/appicon.png",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/drawable-xxhdpi/appicon.png"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

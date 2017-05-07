@@ -1,0 +1,30 @@
+<Animations>
+    <Animation>
+        <Name>SPLASH_SCREEN_LOGO</Name>
+        <TextureResourceName>splashscreen</TextureResourceName>
+        <TextureSheetWidth>768</TextureSheetWidth>
+        <TextureSheetHeight>839</TextureSheetHeight>
+        <TextureWidth>745</TextureWidth>
+        <TextureHeight>732</TextureHeight>
+        <StartX>1</StartX>
+        <StartY>1</StartY>
+        <Frames>1</Frames>
+        <FramesPerSecond>1</FramesPerSecond>
+        <IsLooping>True</IsLooping>
+        <LoadInverse>False</LoadInverse>
+	</Animation>
+    <Animation>
+        <Name>LOADING_TEXT</Name>
+        <TextureResourceName>splashscreen</TextureResourceName>
+        <TextureSheetWidth>768</TextureSheetWidth>
+        <TextureSheetHeight>839</TextureSheetHeight>
+        <TextureWidth>305</TextureWidth>
+        <TextureHeight>100</TextureHeight>
+        <StartX>1</StartX>
+        <StartY>737</StartY>
+        <Frames>1</Frames>
+        <FramesPerSecond>1</FramesPerSecond>
+        <IsLooping>True</IsLooping>
+        <LoadInverse>False</LoadInverse>
+	</Animation>        	    
+</Animations>

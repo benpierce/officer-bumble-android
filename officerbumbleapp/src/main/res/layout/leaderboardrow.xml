@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    	 android:layout_width="match_parent"
+    		 android:layout_height="match_parent">	    
+
+	<TableRow android:id="@+id/tableRow1"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">	    
+	    
+		<ImageView android:id="@+id/PIC_CELL"
+         		   android:contentDescription="@null"
+         		   android:layout_width="0dip"
+         		   android:layout_weight="1"/>
+    
+     	<TextView android:id="@+id/RANK_CELL"
+         		  style="@style/LeaderboardBoldFont"
+         		  android:layout_width="0dip"
+         		  android:layout_weight="1"
+		          android:ellipsize="end"
+		          android:singleLine="true"/>         		  
+           
+     	<TextView android:id="@+id/NAME_CELL"
+         		  style="@style/LeaderboardFont"
+         		  android:layout_width="0dip"
+         		  android:layout_weight="1"
+		           android:ellipsize="end"
+		           android:singleLine="true"/>         		          		  
+     
+     	<TextView android:id="@+id/HIGHSCORE_CELL"
+         		  style="@style/LeaderboardFont"
+         		  android:layout_width="0dip"
+         		  android:layout_weight="1"
+		          android:ellipsize="end"
+		          android:singleLine="true"/>         		  
+     	         		  
+     	<TextView android:id="@+id/CRIMINALSCAUGHT_CELL"
+         		  style="@style/LeaderboardFont"
+         		  android:layout_width="0dip"
+         		  android:layout_weight="1"
+		           android:ellipsize="end"
+		           android:singleLine="true"/>         		  
+     	         		       		 		 
+	</TableRow>     	
+</TableLayout>

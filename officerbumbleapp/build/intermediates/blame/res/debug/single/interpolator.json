@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/benpierce/.android/build-cache/3cfbc84f1f725f8f9c3d804225aeadc4f56ecd71/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/benpierce/AndroidStudioProjects/OfficerBumble/officerbumbleapp/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/benpierce/.android/build-cache/3cfbc84f1f725f8f9c3d804225aeadc4f56ecd71/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]
